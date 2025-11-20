@@ -113,13 +113,6 @@ Result: clean, analysis-ready `titles_df` and `credits_df`.
 
 ---
 
-## 🎤 Presentation Included
-
-A full **PPT presentation is generated automatically**  
-(Accounting: Summary, Problem, Objectives, Insights, Recommendations, Conclusion)
-
----
-
 ## 💻 Tech Stack
 
 - **Python**  
@@ -135,6 +128,3 @@ A full **PPT presentation is generated automatically**
 ├── titles.csv
 ├── credits.csv
 ├── README.md
-└── Amazon_Prime_EDA_Presentation.pptx (exported) . give ready to downlod readme file
-
-
