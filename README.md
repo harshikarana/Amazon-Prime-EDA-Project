@@ -125,6 +125,7 @@ Result: clean, analysis-ready `titles_df` and `credits_df`.
 ---
 
 ## 📦 Project Structure ├── Amazon_EDA.ipynb
+├── Amazon_EDA.ipynb
 ├── titles.csv
 ├── credits.csv
-├── README.md
+└── README.md
